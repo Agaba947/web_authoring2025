@@ -1,8 +1,9 @@
 .Main{
-    
+    background-image: cover;
     background-image: url(./dune.jpg);
     display: flex;
     justify-content: space-between
+    
     
     
     
