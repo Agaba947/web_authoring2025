@@ -1,0 +1,73 @@
+.Main{
+    
+    background-image: url(./dune.jpg);
+    display: flex;
+    justify-content: space-between
+    
+    
+    
+}
+
+.mountain_0{
+    border: 1px black solid;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(223, 4, 95);
+    color: white;
+     border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px ;
+    padding: 15px 20px;
+    
+
+}
+.mountain{
+     background-color: white;
+    border: 1px black solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px rgb(63, 62, 62);
+    flex-basis: 18%;
+   
+   
+   
+}
+
+
+.sky_0{
+     border: 1px black solid;
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px ;
+    padding: 15px 20px;
+}
+.sky{
+    height: auto;
+    width: auto;
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px rgb(63, 62, 62);
+    flex-basis: 18%;
+   
+}
+.tree_0{
+     border: 1px black solid;
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+     border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px ;
+    padding: 15px 20px; 
+  
+}
+.tree{
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px rgb(63, 62, 62);
+    flex-basis: 18%;
+   
+}
